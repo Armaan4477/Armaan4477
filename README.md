@@ -40,17 +40,37 @@ I'm a Software Developer passionate about technology, F1 🏎️ and cars 🚗. 
 ### [Automated ESP](https://github.com/Armaan4477/Automated-ESP)
 ESP-based automation system that controls two relays with advanced scheduling capabilities. Features include software toggles, hardware override switches, and temperature sensor integration.
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-3C99DC?style=flat-square&logo=Espressif&logoColor=white)
+
 ### [DataDash](https://github.com/Armaan4477/Cross-Platform-Media-Sharing)
 Cross platform data sharing app with real-time synchronization capabilities between devices.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+
 [![Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen)](https://datadashshare.vercel.app)
 
-### [CommunityConnect](https://github.com/ura-dev04/CommunityConnect)
-A comprehensive society management application designed to streamline communication and management tasks for residential societies.
-[![Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen)](https://sharecommunityconnect.vercel.app)
+### [Enhanced E-HR Management System](https://github.com/ChampionSamay1644/Enhanced-E-HR-Management-System)
+Comprehensive HR management system with multi-level access control for admins, HR personnel, managers, and employees with real-time database integration.
 
-### [Delicious Discoveries](https://github.com/vrishab0105/Delicious-Discoveries)
-A web application that helps users discover new recipes from around the world with various search methods including AI-powered features.
-[![Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen)](https://deliciousdiscoveries.vercel.app)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
+
+### [TicTacToe](https://github.com/Armaan4477/TicTacToe)
+Classic tic-tac-toe game implementation with AI opponent and various difficulty levels.
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+
+### [Portfolio](https://github.com/Armaan4477/Portfolio)
+My personal portfolio website showcasing my projects and skills.
+
+![NEXTJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white)
+
+[![Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen)](https://armaan44.is-a.dev)
 
 ## 📈 GitHub Activity
 
